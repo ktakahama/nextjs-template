@@ -1,0 +1,6 @@
+query UserGetEventList {
+  events {
+    eventId
+    eventName
+  }
+}
